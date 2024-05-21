@@ -1,0 +1,9 @@
+ultralytics
+supervision
+opencv-python
+numpy
+matplotlib
+pandas
+roboflow
+ipykernel
+dotenv-python

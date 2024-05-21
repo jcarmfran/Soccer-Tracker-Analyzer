@@ -7,3 +7,4 @@ pandas
 roboflow
 ipykernel
 dotenv-python
+scikit-learn
